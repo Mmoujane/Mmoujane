@@ -1,5 +1,5 @@
 - 👋 Hi, I’m marwan
 - 👀 I’m interested in coding and technology in general
-- 🌱 I’m currently learning node.js and react
+- 🌱 I’m currently learning AI and machine learning
 - 📫 contact me in moujane16marwane@gmail.com
 - this is my portfolio https://mmoujane.github.io/MyPortfolio/
