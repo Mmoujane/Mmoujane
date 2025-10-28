@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding and technology in general
 - 🌱 I’m currently learning cybersecurity and blockchain technology
 - 📫 contact me in moujane16marwane@gmail.com
-- this is my portfolio https://mmoujane.github.io/MyPortfolio/
+- this is my portfolio https://mmoujane.com/
