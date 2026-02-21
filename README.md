@@ -1,5 +1,5 @@
 - 👋 Hi, I’m marwan
 - 👀 I’m interested in coding and technology in general
 - 🌱 I’m currently learning cybersecurity and blockchain technology
-- 📫 contact me in moujane16marwane@gmail.com
+- 📫 contact me in moujanemarwane@gmail.com
 - this is my portfolio https://mmoujane.com/
